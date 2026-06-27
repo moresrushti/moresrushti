@@ -1,16 +1,15 @@
-## Hi there 👋
+
 
 <!--
-**moresrushti/moresrushti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Srushti 👋
 
-Here are some ideas to get you started:
+Aspiring Business Analyst | Turning raw data into clear, actionable insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Skilled in Excel, Power BI, Tableau, SQL, Python, R, and SPSS
+
+Currently building my portfolio with real-world analytics projects
+
+Open to internships, entry-level analyst roles, and collaboration
+
+Reach me: more.srushti30@gmail.com are some ideas to get you started:
 -->
